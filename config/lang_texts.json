@@ -1,0 +1,47 @@
+{
+  "C": {
+    "title": "⚽ GPTCoach - 学生运动员个性化训练建议生成器",
+    "intro": "本工具基于 GPT，旨在为学生运动员提供结合位置与角色的个性化训练建议。\n请根据提示依次填写。",
+    "lang_select": "请选择语言 / Language / 言語",
+    "position_label": "请选择主位置：",
+    "role_label": "请选择你的战术角色类型：",
+    "goal_title": "📋 训练目标与限制",
+    "goal_1": "你近期最想提升的能力是？（如：抗压持球、前插射门）",
+    "goal_2": "你每周最多训练几天？",
+    "goal_3": "每次训练大约多长时间（分钟）？",
+    "goal_4": "你在训练上有哪些限制？（如：无队友 / 无器材 / 仅能在家）",
+    "goal_5": "是否有目标比赛或时间节点？（如：两周后校队选拔赛 / 无）",
+    "submit_btn": "🎯 生成训练建议",
+    "prompt_label": "📢 Prompt 内容 (可用于 GPT API 测试)："
+  },
+  "E": {
+    "title": "⚽ GPTCoach - Personalized Training Generator for Student-Athletes",
+    "intro": "This tool uses GPT to generate training suggestions for student-athletes, tailored to their position and tactical role.",
+    "lang_select": "Select Language / 言語 / 语言",
+    "position_label": "Select your main position:",
+    "role_label": "Select your tactical role:",
+    "goal_title": "📋 Training Goal & Constraints",
+    "goal_1": "What skill do you want to improve recently? (e.g. holding under pressure, shooting)",
+    "goal_2": "How many days can you train per week?",
+    "goal_3": "How long is each session? (minutes)",
+    "goal_4": "Do you have any training constraints? (e.g. no teammates, no equipment)",
+    "goal_5": "Do you have a target event/time? (e.g. school tryout in 2 weeks)",
+    "submit_btn": "🎯 Generate Recommendation",
+    "prompt_label": "📢 Prompt Text (for GPT API testing):"
+  },
+  "J": {
+    "title": "⚽ GPTCoach - 学生アスリート向けトレーニング提案生成ツール",
+    "intro": "このツールは GPT を使って、学生アスリートのポジションと役割に応じた練習提案を生成します。",
+    "lang_select": "言語を選択 / Select Language / 语言",
+    "position_label": "ポジションを選んでください：",
+    "role_label": "戦術的ロールを選んでください：",
+    "goal_title": "📋 トレーニング目標と制約",
+    "goal_1": "最近強化したい能力は？（例：プレッシャー下での保持、フィニッシュ）",
+    "goal_2": "1週間に何日練習できますか？",
+    "goal_3": "1回の練習時間は？（分）",
+    "goal_4": "制約はありますか？（例：1人 / 道具なし）",
+    "goal_5": "目標となる試合・時期はありますか？（例：2週間後の選抜など）",
+    "submit_btn": "🎯 トレーニング提案を生成",
+    "prompt_label": "📢 プロンプト内容（GPT API 用）："
+  }
+}

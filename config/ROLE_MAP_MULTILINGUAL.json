@@ -1,0 +1,182 @@
+{
+  "1": {
+    "code": "ST",
+    "subtypes": {
+      "C": [
+        "伪9号",
+        "支柱中锋",
+        "禁区之王",
+        "突前前锋"
+      ],
+      "E": [
+        "False 9",
+        "Target Man",
+        "Poacher",
+        "Advanced Forward"
+      ],
+      "J": [
+        "偽9番",
+        "ターゲットマン",
+        "ボックスストライカー",
+        "アドバンスドフォワード"
+      ]
+    }
+  },
+  "2": {
+    "code": "CAM",
+    "subtypes": {
+      "C": [
+        "传统10号",
+        "组织核心",
+        "半边锋"
+      ],
+      "E": [
+        "Classic No.10",
+        "Playmaker",
+        "Wide Attacker"
+      ],
+      "J": [
+        "伝統的な10番",
+        "プレーメイカー",
+        "ワイドアタッカー"
+      ]
+    }
+  },
+  "3": {
+    "code": "CM",
+    "subtypes": {
+      "C": [
+        "B2B中场",
+        "组织核心",
+        "防守型"
+      ],
+      "E": [
+        "Box-to-Box",
+        "Playmaker",
+        "Defensive Midfielder"
+      ],
+      "J": [
+        "ボックス・トゥ・ボックス",
+        "プレーメイカー",
+        "守備的MF"
+      ]
+    }
+  },
+  "4": {
+    "code": "CDM",
+    "subtypes": {
+      "C": [
+        "拖后组织核心",
+        "镇守后场",
+        "全能中场"
+      ],
+      "E": [
+        "Deep-lying Playmaker",
+        "Holding Midfielder",
+        "All-round Midfielder"
+      ],
+      "J": [
+        "ディーププレーメイカー",
+        "ホールディングMF",
+        "万能型MF"
+      ]
+    }
+  },
+  "5": {
+    "code": "LW/RW",
+    "subtypes": {
+      "C": [
+        "内锋",
+        "边锋",
+        "边路组织核心"
+      ],
+      "E": [
+        "Inverted Winger",
+        "Winger",
+        "Wide Playmaker"
+      ],
+      "J": [
+        "インサイドFW",
+        "ウイング",
+        "ワイドプレーメイカー"
+      ]
+    }
+  },
+  "6": {
+    "code": "LM/RM",
+    "subtypes": {
+      "C": [
+        "边路组织核心",
+        "边前卫",
+        "内收型边卫"
+      ],
+      "E": [
+        "Wide Playmaker",
+        "Wide Midfielder",
+        "Inverted Wingback"
+      ],
+      "J": [
+        "ワイドプレーメイカー",
+        "ワイドMF",
+        "内向きウイングバック"
+      ]
+    }
+  },
+  "7": {
+    "code": "CB",
+    "subtypes": {
+      "C": [
+        "拖后中卫",
+        "出球型中卫",
+        "协防型中卫"
+      ],
+      "E": [
+        "Sweeper",
+        "Ball-playing Defender",
+        "Covering Center Back"
+      ],
+      "J": [
+        "スイーパー",
+        "ビルドアップCB",
+        "カバリングCB"
+      ]
+    }
+  },
+  "8": {
+    "code": "RB/LB",
+    "subtypes": {
+      "C": [
+        "边翼卫",
+        "传统边后卫",
+        "伪边卫"
+      ],
+      "E": [
+        "Wing-back",
+        "Traditional Full-back",
+        "Inverted Full-back"
+      ],
+      "J": [
+        "ウイングバック",
+        "伝統的SB",
+        "インバーテッドSB"
+      ]
+    }
+  },
+  "9": {
+    "code": "GK",
+    "subtypes": {
+      "C": [
+        "门线门将",
+        "出球型门将"
+      ],
+      "E": [
+        "Shot-stopper",
+        "Ball-playing Goalkeeper"
+      ],
+      "J": [
+        "シュートストッパー",
+        "ビルドアップ型GK"
+      ]
+    }
+  }
+}
